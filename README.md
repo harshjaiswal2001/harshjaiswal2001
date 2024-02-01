@@ -1,3 +1,5 @@
+[![MasterHead](https://www.canva.com/design/DAF7kBVpSEo/zVTqdYqrCWUu9vQhpkza-A/view?utm_content=DAF7kBVpSEo&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
+
 <h1 align="center">Hi 👋, I'm Harsh Jaiswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
@@ -8,7 +10,7 @@
 
 - 🔭 I’m currently working on **Smart Attendance System**
 
-- 🌱 I’m currently learning **backend tools such as Node.js,ODM,MongoDB,Express**     
+- 🌱 I’m currently learning **backend tools such as Node.js,ODM,MongoDB,Express**
 
 - 💬 Ask me about **react,react native, javascript,js**
 
