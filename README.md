@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **harshjaiswal857@gmail.com**
 
-- 📄 Know about my experiences [./Harsh Jaiswal Resume.pdf]
+- 📄 Know about my experiences [https://indigo-hestia-39.tiiny.site/](https://indigo-hestia-39.tiiny.site/)
 
 - ⚡ Fun fact **I think i am funny**
 
