@@ -1,4 +1,6 @@
-[![MasterHead](https://www.canva.com/design/DAF7kBVpSEo/zVTqdYqrCWUu9vQhpkza-A/view?utm_content=DAF7kBVpSEo&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
+![MasterHeader](./github-header-image.png)
+
+
 
 <h1 align="center">Hi 👋, I'm Harsh Jaiswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
