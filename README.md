@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Smart Attendance System**
 
-- 🌱 I’m currently learning **backend tools such as Node.js,ODM,MongoDB,Express**
+- 🌱 I’m currently learning **backend tools such as Node.js,ODM,MongoDB,Express**     
 
 - 💬 Ask me about **react,react native, javascript,js**
 
