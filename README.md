@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [Harsh Jaiswal Resume](https://indigo-hestia-39.tiiny.site/)
 
-- ⚡ Fun fact *I think i am funny*
+- ⚡ Fun fact *My code has a black belt in debugging! 🥋🐜*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
