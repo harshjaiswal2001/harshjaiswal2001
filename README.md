@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/harshjaiswal2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshjaiswal2001" height="30" width="40" /></a>
 
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="https://portfolio-harsh-jaiswal.vercel.app/" target="_blank">
   <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="portfolio" height="30" width="30" />
 </a>
 
